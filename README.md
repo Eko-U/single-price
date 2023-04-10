@@ -10,7 +10,6 @@ This is a solution to the [Single price grid component challenge on Frontend Men
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
 - [Author](#author)
 
 ## Overview
@@ -28,23 +27,14 @@ Your users should be able to:
 
 ### Links
 
-- Solution URL: [https://github.com/Eko-U/product-card.git](https://github.com/Eko-U/product-card.git)
-- Live Site URL: [https://eko-u.github.io/product-card/](https://eko-u.github.io/product-card/)
+- Solution URL: [https://github.com/Eko-U/single-price](https://github.com/Eko-U/single-price)
+- Live Site URL: [https://eko-u.github.io/single-price/](https://eko-u.github.io/single-price/)
 
 ### Built with
 
 - Semantic HTML5 markup
 - CSS custom properties
 - CSS Grid
-
-### What I learned
-I have been able to reinforce my knowledge on flexbox. Down below is a code snippet of how to change the background color of your selection in your browser.
-```css
-::selection {
-  background-color: hsl(158, 36%, 37%);
-  color: #fff;
-}
-```
 
 ## Author
 
